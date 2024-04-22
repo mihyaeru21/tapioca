@@ -52,6 +52,7 @@ group :development, :test do
   gem "bcrypt"
   gem "xpath"
   gem "kredis"
+  gem "will_paginate"
 end
 
 group :test do

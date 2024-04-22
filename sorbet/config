@@ -1,4 +1,5 @@
 --dir
 .
 --ignore=/vendor
+--ignore=/.ruby-lsp
 --enable-experimental-requires-ancestor
